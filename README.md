@@ -4,7 +4,7 @@
 
 This project aims to create a reinforcement learning (RL) model to optimize stock levels for a warehouse. The objective is to balance carrying costs and out-of-stock risks by training an RL agent to interact with a warehouse environment and make optimal stock-level decisions.
 
-The agent is trained using a Deep Q-Network (DQN) to manage inventory by adjusting stock levels based on demand, penalties for stockouts, and carrying costs. The environment simulates the dynamics of a warehouse inventory system
+The agent is trained using a Deep Q-Network (DQN) to manage inventory by adjusting stock levels based on demand, penalties for stockouts, and carrying costs. The environment simulates the dynamics of a warehouse inventory system.
 
 ## Dataset
 
